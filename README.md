@@ -1,7 +1,7 @@
 # Aapka Dost
 
 ### Aapka Dost is a Coronavirus assistant which gives the user information about symptoms, measures and helplines related to 2019-nCov
-
+### Kyuki, Aap Surakshit To Desh Surakshit
 ![](https://img.shields.io/badge/Made_with-PyTorch-red?style=for-the-badge&logo=tinder)
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=for-the-badge&logo=visual-studio-code)
 
